@@ -66,3 +66,8 @@ pip install gymnasium
 ## TD3 Test(Humanoid)
 - tianshou benchmark (buffersize 915000, return 5341)
 - [tianshou benchmark](https://tianshou.readthedocs.io/en/master/tutorials/benchmark.html#mujoco-benchmark)
+
+<img src="https://github.com/seohyunjun/RL_TD3/blob/main/video/final4.gif" width="75%" height="75%" >
+
+<img src="https://github.com/seohyunjun/RL_TD3/blob/main/ppt/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B32.png" height=80% width=80% >
+<img src="https://github.com/seohyunjun/RL_TD3/blob/main/ppt/%E1%84%89%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%83%E1%85%B33.png" height=80% width=80% >
