@@ -63,4 +63,6 @@ pip install gymnasium
 <br>
 
 
-## DDPG 
+## TD3 Test(Humanoid)
+- tianshou benchmark (buffersize 915000, return 5341)
+- [tianshou benchmark](https://tianshou.readthedocs.io/en/master/tutorials/benchmark.html#mujoco-benchmark)
